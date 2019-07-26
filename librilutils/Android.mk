@@ -62,4 +62,4 @@ LOCAL_SRC_FILES := proto/sap-api.proto
 LOCAL_CFLAGS := -Wall -Wextra -Werror
 LOCAL_PROTOC_OPTIMIZE_TYPE := micro
 
-include $(BUILD_STATIC_JAVA_LIBRARY)
+#include $(BUILD_STATIC_JAVA_LIBRARY)
