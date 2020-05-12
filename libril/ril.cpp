@@ -67,8 +67,8 @@ namespace android {
 
 #define ANDROID_WAKE_LOCK_NAME "radio-interface"
 
-#define ANDROID_WAKE_LOCK_SECS 0
-#define ANDROID_WAKE_LOCK_USECS 200000
+#define ANDROID_WAKE_LOCK_SECS 1
+#define ANDROID_WAKE_LOCK_USECS 100000
 
 #define PROPERTY_RIL_IMPL "gsm.version.ril-impl"
 
